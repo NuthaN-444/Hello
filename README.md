@@ -1,3 +1,3 @@
 # Hello
 www
-<h1 style="color="red">Hello Guys</h1>
+<h1 style="color=red">Hello Guys</h1>
